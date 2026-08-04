@@ -1,16 +1,6 @@
 PaperLive DevOps Training
 
-AWS Module Start Date : 28th May 2026 | 8:00PM - 10-PM
-
-Orientation - Day 1 - 28th July 2026
-
-
-Orientation - Day 2 - 29th July 2026
-
-
 AWS Module::
-
-PL-AWS-Cloud-DevOps-2807
 
 	- Lab Requirements:
 	
