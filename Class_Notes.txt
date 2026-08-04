@@ -1,1 +1,47 @@
 # AWS Training Reference
+PaperLive DevOps Training
+
+AWS Module Day 1 :  
+
+######################
+Day 1 - 3rd Aug. 2026
+######################
+
+
+	AWS Cloud Platform --> 
+	
+	1. Lab Infra-Structure :
+	
+		AWS Cloud Platform ::
+		
+			- Create Free Account on AWS 
+			
+				- https://aws.amazon.com/console/
+				
+				- https://aws.amazon.com/resources/create-account/
+
+	2. GitHub Account 	# Used to maintain the Remote Repositories(Files & Folders).
+		
+		- https://github.com/
+		
+		
+	3. Install MobaXTerm/Putty on Local Machine - Windows Users
+	
+		- SSH Agent to connect to Remote Servers.
+		
+		- https://mobaxterm.mobatek.net/download-home-edition.html  
+			# Choose Installer Edition.
+			# Right click & Extract 
+			# Goto to the Folder & Run the Exec.
+			
+
+######################
+Day 2 - 4th Aug. 2026
+######################
+
+
+	https://aws.amazon.com/about-aws/global-infrastructure/
+	
+	https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
+	
+	
