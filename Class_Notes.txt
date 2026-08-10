@@ -43,5 +43,75 @@ Day 2 - 4th Aug. 2026
 	https://aws.amazon.com/about-aws/global-infrastructure/
 	
 	https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
+
+
+######################
+Day 3 - 10th Aug. 2026
+######################
+
+	- AWS Console:
 	
+		AWS Cloud Service :
+		
+			- AWS Console 			--> Basic/Common --> Web User Interface 
+			
+				- User Login ID
+				
+				- Login Password 
+				
+				- MFA ***
+			
+		- Go to Security Credentials Page ==> MFA --> Assign MFA Device
+			
+		- Regions :::
+		
+			
+		
+			
+			
+			
+			
+			
+			
+			
+				
+			- AWS root User 		==> Email_ID & Password	==> Account Administration
+									==> Create IAM Users/Policies/Roles/Groups
+									==> Administrate the AWS Services
+									==> Billing Management
+			
+			- AWS IAM User			==> Application/Infra-Structure Management on AWS Cloud
+				
+			- RBAC 					==> Role Based Access Control
+			
+			- AWS Console 			==> Password & MFA 
+			
+			- AWS Cli 				==> AWS Access Key & Secret Key
+			
+			- AWS SDK				==> AWS Access Key & Secret Key 
+			
+			- IAC Tools(Terraform/Cloudformation)	==> AWS Access Key & Secret Key
+		
+		- UI Option
+		
+	- AWS Billing and Cost Management:::
+	
+	- AWS IAM Service:
+	
+		- IAM User 		# pldevopsuser01
+							 Access_Key: Aasdf
+							 
+							 Secret_Key: dsfadf
+		
+		- IAM User Group # pldevopsuser-grp101  
+
+Next :::
+
+		
+		- IAM Policies	# Administration Access 
+		
+		- IAM Roles 
+		
+		
+		- EC2 Service :::
 	
